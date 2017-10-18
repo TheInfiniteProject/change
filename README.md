@@ -12,7 +12,7 @@ project is focused on parsing through various open-source databases containing f
 
 1.download the world factbook 2016 from cia.gov > https://www.cia.gov/library/publications/resources/the-world-factbook/
 2. in order to run 'PARSE_fields_print.py' or 'PARSE_fields_print_data' create 3 folders in the local directory named 'FactBookExtract', 'SORTED_fields_print', and 'factbook'('factbook' should be created inside 'FactBookExtract')
-2.extract the world fact book files into 'FactBookExtract/factbook'
+3.extract the world fact book files into 'FactBookExtract/factbook'
 4. delete all files and directories in 'factbook' except for 'fields'
 5. create a folder named 'fieldsPrint' inside 'FactBookExtract/factbook'
 6. move all 'print_...' files from 'fields' into 'fieldsPrint'
